@@ -1,0 +1,15 @@
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\bin\Debug\netcoreapp2.1\ASPNETCoreAzureAD.deps.json
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\bin\Debug\netcoreapp2.1\ASPNETCoreAzureAD.runtimeconfig.json
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\bin\Debug\netcoreapp2.1\ASPNETCoreAzureAD.runtimeconfig.dev.json
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\bin\Debug\netcoreapp2.1\ASPNETCoreAzureAD.dll
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\bin\Debug\netcoreapp2.1\ASPNETCoreAzureAD.pdb
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Debug\netcoreapp2.1\ASPNETCoreAzureAD.csprojAssemblyReference.cache
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Debug\netcoreapp2.1\ASPNETCoreAzureAD.csproj.CoreCompileInputs.cache
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Debug\netcoreapp2.1\ASPNETCoreAzureAD.RazorAssemblyInfo.cache
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Debug\netcoreapp2.1\ASPNETCoreAzureAD.RazorAssemblyInfo.cs
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Debug\netcoreapp2.1\ASPNETCoreAzureAD.AssemblyInfoInputs.cache
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Debug\netcoreapp2.1\ASPNETCoreAzureAD.AssemblyInfo.cs
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Debug\netcoreapp2.1\ASPNETCoreAzureAD.RazorTargetAssemblyInfo.cache
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Debug\netcoreapp2.1\ASPNETCoreAzureAD.dll
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Debug\netcoreapp2.1\ASPNETCoreAzureAD.pdb

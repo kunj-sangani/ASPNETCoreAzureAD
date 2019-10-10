@@ -1,0 +1,17 @@
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\bin\Release\netcoreapp2.2\ASPNETCoreAzureAD.deps.json
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\bin\Release\netcoreapp2.2\ASPNETCoreAzureAD.runtimeconfig.json
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\bin\Release\netcoreapp2.2\ASPNETCoreAzureAD.runtimeconfig.dev.json
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\bin\Release\netcoreapp2.2\ASPNETCoreAzureAD.dll
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\bin\Release\netcoreapp2.2\ASPNETCoreAzureAD.pdb
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\bin\Release\netcoreapp2.2\Microsoft.Identity.Web.dll
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\bin\Release\netcoreapp2.2\Microsoft.Identity.Web.pdb
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Release\netcoreapp2.2\ASPNETCoreAzureAD.csprojAssemblyReference.cache
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Release\netcoreapp2.2\ASPNETCoreAzureAD.csproj.CoreCompileInputs.cache
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Release\netcoreapp2.2\ASPNETCoreAzureAD.RazorAssemblyInfo.cache
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Release\netcoreapp2.2\ASPNETCoreAzureAD.RazorAssemblyInfo.cs
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Release\netcoreapp2.2\ASPNETCoreAzureAD.AssemblyInfoInputs.cache
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Release\netcoreapp2.2\ASPNETCoreAzureAD.AssemblyInfo.cs
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Release\netcoreapp2.2\ASPNETCoreAzureAD.RazorTargetAssemblyInfo.cache
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Release\netcoreapp2.2\ASPNETCoreAzureAD.csproj.CopyComplete
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Release\netcoreapp2.2\ASPNETCoreAzureAD.dll
+E:\Projects\ASPNETCoreAzureAD\ASPNETCoreAzureAD\obj\Release\netcoreapp2.2\ASPNETCoreAzureAD.pdb
